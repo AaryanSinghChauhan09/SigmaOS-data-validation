@@ -1,3 +1,4 @@
+#![forbid(unsafe_code)]
 //! SigmaOS-data-validation: data validation model.
 //!
 //! Real implementation: rules, constraints, checks, and validation.
